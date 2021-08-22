@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { getCourses } from '../api/courseApi';
 import CourseList from './CourseList';
+import { Link } from 'react-router-dom';
 
 function CoursesPage() {
   const [courses, setCourses] = useState([]);
@@ -12,6 +13,9 @@ function CoursesPage() {
   return (
     <React.Fragment>
       <h2>Courses</h2>
+      <Link className="btn btn-primary" to="/course">
+        Add Course
+      </Link>
       <p>List of courses</p>
       <CourseList courses={courses} />
     </React.Fragment>
