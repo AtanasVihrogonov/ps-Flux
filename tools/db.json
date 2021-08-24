@@ -2,7 +2,7 @@
   "courses": [
     {
       "id": 1,
-      "title": "Securing React Apps with Auth0",
+      "title": "Securing React Apps with Auth02",
       "slug": "react-auth0-authentication-security",
       "authorId": 1,
       "category": "JavaScript"
@@ -69,54 +69,6 @@
       "slug": "web-components-shadow-dom",
       "authorId": 1,
       "category": "HTML5"
-    },
-    {
-      "id": 11,
-      "slug": "whan-i-will-do",
-      "title": "Whan I will do",
-      "authorId": 2,
-      "category": "test",
-      "createdAt": 1629715042820
-    },
-    {
-      "id": 12,
-      "slug": "book",
-      "title": "Book!",
-      "authorId": 1,
-      "category": "SURF",
-      "createdAt": 1629715058013
-    },
-    {
-      "id": 13,
-      "slug": "bivvy-2man",
-      "title": "Bivvy 2Man",
-      "authorId": 1,
-      "category": "BIG PIT/CARP",
-      "createdAt": 1629715078074
-    },
-    {
-      "id": 14,
-      "slug": "second-book",
-      "title": "Second Book",
-      "authorId": 2,
-      "category": "SEA",
-      "createdAt": 1629715096926
-    },
-    {
-      "id": 15,
-      "slug": "a-book",
-      "title": "A Book",
-      "authorId": 2,
-      "category": "sp",
-      "createdAt": 1629716143734
-    },
-    {
-      "id": 16,
-      "slug": "1",
-      "title": "two",
-      "authorId": 1,
-      "category": "wtho",
-      "createdAt": 1629716322876
     }
   ],
   "authors": [

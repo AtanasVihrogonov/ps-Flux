@@ -3,6 +3,7 @@ import TextInput from './common/TextInput';
 import PropTypes from 'prop-types';
 
 function CourseForm(props) {
+  console.log(props.course);
   return (
     <form onSubmit={props.onSubmit}>
       <TextInput
