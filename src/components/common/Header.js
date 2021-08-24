@@ -2,7 +2,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 
 function Header() {
-  const activeStyle = { color: 'purple' };
+  const activeStyle = { color: 'darkred' };
   return (
     <nav>
       <NavLink exact activeStyle={activeStyle} to="/">

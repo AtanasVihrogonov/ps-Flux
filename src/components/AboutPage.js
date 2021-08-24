@@ -4,8 +4,9 @@ class AboutPage extends Component {
   render() {
     return (
       <React.Fragment>
+        <br></br>
         <h2>About</h2>
-        <p>This App uses Rect</p>
+        <p>The App was created for learning purposes only!</p>
       </React.Fragment>
     );
   }

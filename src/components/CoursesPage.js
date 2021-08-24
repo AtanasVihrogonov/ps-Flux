@@ -19,6 +19,7 @@ function CoursesPage() {
 
   return (
     <React.Fragment>
+      <br></br>
       <h2>Courses</h2>
       <Link className="btn btn-primary" to="/course">
         Add Course
